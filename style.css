@@ -53,6 +53,10 @@ header{
     padding-bottom: 30px;
 }
 
+h2{
+    text-align: center;
+}
+
 #shopping-time-img{
     margin-top: 30px;
     width: 90vw;
